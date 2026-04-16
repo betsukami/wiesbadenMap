@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Wiesbaden Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; }
+        #map { width: 100%; height: 100%; z-index: 1; }
+        
+        #search-overlay {
+            position: fixed; top: 20px; left: 70px; z-index: 9999;
+            background: #ffeb3b; padding: 15px; border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.5); display: flex; gap: 10px; border: 3px solid #000;
+        }
+        #search-input { width: 250px; padding: 10px; border-radius: 5px; border: 1px solid #000; }
+        #search-btn { padding: 10px 20px; background: #000; color: #fff; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        
+        /* Legende */
+        .legend {
+            position: fixed; bottom: 30px; right: 30px; z-index: 9999;
+            background: white; padding: 15px; border-radius: 8px;
+            border: 2px solid #3B82F6; line-height: 24px; font-family: sans-serif;
+        }
+        .legend i { width: 18px; height: 18px; float: left; margin-right: 10px; border-radius: 3px; }
+
+        #loading { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: white; z-index: 10000; display: flex; justify-content: center; align-items: center; font-family: sans-serif; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <div id="loading">Loading data...</div>
+
+    <div id="search-overlay">
+        <input type="text" id="search-input" placeholder="Search for street name...">
+        <button id="search-btn">SEARCH</button>
+    </div>
+
+    <div class="legend" id="plz-legend">
+        <strong>Postal Codes</strong><br>
+        <i style="background: #3B82F6"></i> 65191<br>
+        <i style="background: #22C55E"></i> 65193<br>
+        <i style="background: #F97316"></i> 65207
+    </div>
+
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        let streetData = {};
+        const streetLayers = {};
+        const map = L.map('map').setView([50.075, 8.285], 14);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+        // Schritt 1: TXT Datei laden
+        fetch('Wiesbaden_streets.txt')
+            .then(response => response.text())
+            .then(text => {
+                // Datei parsen (Format: Name | PLZ)
+                text.split('\n').forEach(line => {
+                    const parts = line.split('|');
+                    if (parts.length === 2) {
+                        const name = parts[0].trim();
+                        const plz = parts[1].trim();
+                        streetData[name] = plz;
+                    }
+                });
+                loadMapData();
+            });
+
+        function loadMapData() {
+            const query = `[out:json][timeout:90];area["name"="Wiesbaden"]->.searchArea;way(area.searchArea)[name];out geom;`;
+            fetch('https://overpass-api.de/api/interpreter?data=' + encodeURIComponent(query))
+            .then(res => res.json())
+            .then(data => {
+                data.elements.forEach(el => {
+                    const name = el.tags.name;
+                    if (el.geometry && streetData[name]) {
+                        const plz = streetData[name];
+                        const color = plz === "65191" ? "#3B82F6" : plz === "65193" ? "#22C55E" : "#F97316";
+                        const line = L.polyline(el.geometry.map(p => [p.lat, p.lon]), { color: color, weight: 6, opacity: 0.8 }).addTo(map);
+                        line.bindPopup(`<strong>${name}</strong><br>PLZ: ${plz}`);
+                        if (!streetLayers[name.toLowerCase()]) streetLayers[name.toLowerCase()] = [];
+                        streetLayers[name.toLowerCase()].push(line);
+                    }
+                });
+                document.getElementById('loading').style.display = 'none';
+            });
+        }
+
+        function doSearch() {
+            const val = document.getElementById('search-input').value.toLowerCase().trim();
+            const layers = streetLayers[val];
+            if (layers) {
+                const group = L.featureGroup(layers);
+                map.fitBounds(group.getBounds(), { padding: [100, 100], maxZoom: 18 });
+                layers.forEach(l => l.openPopup());
+            } else { alert("Not found!"); }
+        }
+        document.getElementById('search-btn').onclick = doSearch;
+    </script>
+</body>
+</html>
