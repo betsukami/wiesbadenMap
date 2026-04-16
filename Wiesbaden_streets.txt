@@ -1,8 +1,5 @@
 
-Adalbert-Stifter-Straße | 65193
-Adolfsberg | 65193
 Ahornstraße | 65207
-Ahornweg | 65193
 Alban-Köhler-Straße | 65191
 Alsbachblick | 65207
 Alte Brücke | 65207
@@ -10,7 +7,6 @@ Alte Dorfstraße | 65207
 Altkönigstraße | 65207
 Altmühlstraße | 65207
 Altmünsterstraße | 65207
-Am Allersberg | 65191
 Am alten Weinberg | 65207
 Am Berggarten | 65207
 Am Biengarten | 65191
@@ -18,7 +14,6 @@ Am Birnbaum | 65191
 Am Buchenhain | 65207
 Am Burgacker | 65207
 Am Dorfplatz | 65207
-Am Eichelgarten | 65193
 Am großen Garten | 65207
 Am Gänsberg | 65207
 Am Heidestock | 65191
@@ -45,18 +40,15 @@ Am Schloßberg | 65191
 Am Schlupfloch | 65207
 Am Sonnenblick | 65207
 Am Sonnenhang | 65207
-Am Speiergarten | 65191
 Am Sportfeld | 65207
 Am Sportplatz | 65207
 Am Steinwald | 65207
 Am Stickelwald | 65207
 Am Wald | 65207
-Am Wartturm | 65191
 Am Wasserturm | 65207
 Am Weinberg | 65207
 Am Wellinger | 65207
 Am Wiesenhang | 65207
-Am Wolfsfeld | 65191
 Amselberg | 65191
 An den drei Weiden | 65207
 An der Allee | 65207
@@ -66,11 +58,9 @@ An der Hofwiese | 65191
 An der Höhe | 65207
 An der Leimenkaut | 65207
 An der Stadtmauer | 65191
-Bahnholzstraße | 65193
 Bayernstraße | 65191
 Bergstraße | 65193
 Bingertstraße | 65191
-Brabanter Straße | 65191
 Buchenwaldstraße | 65193
 Bürschgartenstraße | 65193
 Carl-Frenger-Steige | 65193
@@ -78,65 +68,42 @@ Danziger Straße | 65191
 Dorotheenweg | 65193
 Dreispitzstraße | 65191
 Dudenstraße | 65193
-Eichenwaldstraße | 65193
 Eigenheimstraße | 65193
-Eintrachtstraße | 65193
 Elisenstraße | 65193
 Emil-Pfeiffer-Weg | 65191
 Euckenstraße | 65191
 Fenchelring | 65191
 Flandernstraße | 65191
-Forststraße | 65193
 Frauenstraße | 65193
 Gartenstraße | 65191
 Goldsteintal | 65207
 Graf-Gerlach-Straße | 65191
-Gudrunweg | 65193
 Haideweg | 65191
 Hirtenstraße | 65193
-Höhenstraße | 65193
-Idsteiner Straße | 65193
 Ingwerweg | 65191
 Irmengardstraße | 65191
 Jungferngartenstraße | 65193
-Kaiser-Friedrich-Straße | 65193
-Kaiser-Wilhelm-Straße | 65193
 Kamilleweg | 65191
-Kantstraße | 65191
-Kettelerstraße | 65193
 Korianderstraße | 65191
-Kröckelbergstraße | 65193
-Kreuzbergstraße | 65193
-Leibnizstraße | 65191
 Lichtenbergstraße | 65191
 Liebstöckelweg | 65191
 Louis-Buchelt-Straße | 65193
-Margarethenstraße | 65193
 Memelstraße | 65191
 Mühlbergstraße | 65191
 Mühlwiesenstraße | 65191
 Nietzschestraße | 65191
 Ostpreußenstraße | 65207
-Parkstraße | 65191
-Parkweg | 65191
-Pfahlerstraße | 65193
-Prinz-Nikolas-Straße | 65193
 Rambacher Straße | 65193
 Rosmarinweg | 65191
 Saalbeiweg | 65193 - unknown
 Salbeiweg | 65191
-Sandweg | 65191
-Schellingstraße | 65191
 Schlagstraße | 65193
-Schleiermacherstraße | 65191
 Schopenhauerstraße | 65191
 Schuppstraße | 65191
-Sooderstraße | 65193
 Soodersteige | 65193
 Starenweg | 65191
 Steckengartenstraße | 65193
 Talstraße | 65191
-Tennelbachstraße | 65193
 Teufelsgraben | 65193
 Vor den Fichten | 65193
 Weichselstraße | 65191
