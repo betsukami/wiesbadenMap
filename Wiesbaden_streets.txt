@@ -16,13 +16,11 @@ Am Burgacker | 65207
 Am Dorfplatz | 65207
 Am großen Garten | 65207
 Am Gänsberg | 65207
-Am Heidestock | 65191
 Am Heienberg | 65193
 Am Heiligenhaus | 65207
 Am Heiligenstock | 65191
 Am Holderstrauch | 65207
 Am Kirchentor | 65207
-Am Kirchgarten | 65191
 Am Kohlhaag | 65207
 Am Leiermann | 65207
 Am Lindenborn | 65207
@@ -60,7 +58,6 @@ An der Leimenkaut | 65207
 An der Stadtmauer | 65191
 Bayernstraße | 65191
 Bergstraße | 65193
-Bingertstraße | 65191
 Buchenwaldstraße | 65193
 Bürschgartenstraße | 65193
 Carl-Frenger-Steige | 65193
@@ -77,16 +74,13 @@ Flandernstraße | 65191
 Frauenstraße | 65193
 Gartenstraße | 65191
 Goldsteintal | 65207
-Graf-Gerlach-Straße | 65191
 Haideweg | 65191
 Hirtenstraße | 65193
 Ingwerweg | 65191
 Irmengardstraße | 65191
 Jungferngartenstraße | 65193
-Kamilleweg | 65191
 Korianderstraße | 65191
 Lichtenbergstraße | 65191
-Liebstöckelweg | 65191
 Louis-Buchelt-Straße | 65193
 Memelstraße | 65191
 Mühlbergstraße | 65191
@@ -94,9 +88,6 @@ Mühlwiesenstraße | 65191
 Nietzschestraße | 65191
 Ostpreußenstraße | 65207
 Rambacher Straße | 65193
-Rosmarinweg | 65191
-Saalbeiweg | 65193 - unknown
-Salbeiweg | 65191
 Schlagstraße | 65193
 Schopenhauerstraße | 65191
 Schuppstraße | 65191
