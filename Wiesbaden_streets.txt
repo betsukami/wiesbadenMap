@@ -47,7 +47,6 @@ Am Wasserturm | 65207
 Am Weinberg | 65207
 Am Wellinger | 65207
 Am Wiesenhang | 65207
-Amselberg | 65191
 An den drei Weiden | 65207
 An der Allee | 65207
 An der Dietenmühle | 65191
@@ -68,7 +67,6 @@ Dudenstraße | 65193
 Eigenheimstraße | 65193
 Elisenstraße | 65193
 Emil-Pfeiffer-Weg | 65191
-Euckenstraße | 65191
 Fenchelring | 65191
 Flandernstraße | 65191
 Frauenstraße | 65193
@@ -80,16 +78,13 @@ Ingwerweg | 65191
 Irmengardstraße | 65191
 Jungferngartenstraße | 65193
 Korianderstraße | 65191
-Lichtenbergstraße | 65191
 Louis-Buchelt-Straße | 65193
 Memelstraße | 65191
 Mühlbergstraße | 65191
 Mühlwiesenstraße | 65191
-Nietzschestraße | 65191
 Ostpreußenstraße | 65207
 Rambacher Straße | 65193
 Schlagstraße | 65193
-Schopenhauerstraße | 65191
 Schuppstraße | 65191
 Soodersteige | 65193
 Starenweg | 65191
