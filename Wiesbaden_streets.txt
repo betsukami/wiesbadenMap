@@ -55,29 +55,24 @@ An der Hofwiese | 65191
 An der Höhe | 65207
 An der Leimenkaut | 65207
 An der Stadtmauer | 65191
-Bayernstraße | 65191
 Bergstraße | 65193
 Buchenwaldstraße | 65193
 Bürschgartenstraße | 65193
 Carl-Frenger-Steige | 65193
 Danziger Straße | 65191
 Dorotheenweg | 65193
-Dreispitzstraße | 65191
 Dudenstraße | 65193
 Eigenheimstraße | 65193
 Elisenstraße | 65193
 Emil-Pfeiffer-Weg | 65191
-Fenchelring | 65191
 Flandernstraße | 65191
 Frauenstraße | 65193
 Gartenstraße | 65191
 Goldsteintal | 65207
 Haideweg | 65191
 Hirtenstraße | 65193
-Ingwerweg | 65191
 Irmengardstraße | 65191
 Jungferngartenstraße | 65193
-Korianderstraße | 65191
 Louis-Buchelt-Straße | 65193
 Memelstraße | 65191
 Mühlbergstraße | 65191
