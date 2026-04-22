@@ -10,7 +10,6 @@ Altmünsterstraße | 65207
 Am alten Weinberg | 65207
 Am Berggarten | 65207
 Am Biengarten | 65191
-Am Birnbaum | 65191
 Am Buchenhain | 65207
 Am Burgacker | 65207
 Am Dorfplatz | 65207
@@ -64,17 +63,13 @@ Dorotheenweg | 65193
 Dudenstraße | 65193
 Eigenheimstraße | 65193
 Elisenstraße | 65193
-Emil-Pfeiffer-Weg | 65191
-Flandernstraße | 65191
 Frauenstraße | 65193
 Gartenstraße | 65191
 Goldsteintal | 65207
-Haideweg | 65191
 Hirtenstraße | 65193
 Irmengardstraße | 65191
 Jungferngartenstraße | 65193
 Louis-Buchelt-Straße | 65193
-Memelstraße | 65191
 Mühlbergstraße | 65191
 Mühlwiesenstraße | 65191
 Ostpreußenstraße | 65207
@@ -87,7 +82,6 @@ Steckengartenstraße | 65193
 Talstraße | 65191
 Teufelsgraben | 65193
 Vor den Fichten | 65193
-Weichselstraße | 65191
 Weihergartenstraße | 65193
 Wittgenweg | 65193
 Zweigstraße | 65191
