@@ -53,7 +53,6 @@ An der Gerbermühle | 65207
 An der Hofwiese | 65191
 An der Höhe | 65207
 An der Leimenkaut | 65207
-An der Stadtmauer | 65191
 Bergstraße | 65193
 Buchenwaldstraße | 65193
 Bürschgartenstraße | 65193
@@ -70,16 +69,11 @@ Hirtenstraße | 65193
 Irmengardstraße | 65191
 Jungferngartenstraße | 65193
 Louis-Buchelt-Straße | 65193
-Mühlbergstraße | 65191
-Mühlwiesenstraße | 65191
 Ostpreußenstraße | 65207
-Rambacher Straße | 65193
 Schlagstraße | 65193
-Schuppstraße | 65191
 Soodersteige | 65193
 Starenweg | 65191
 Steckengartenstraße | 65193
-Talstraße | 65191
 Teufelsgraben | 65193
 Vor den Fichten | 65193
 Weihergartenstraße | 65193
