@@ -33,7 +33,6 @@ Am Rosenhang | 65207
 Am Roten Berg | 65207
 Am Ruhwehr | 65207
 Am Scheuerling | 65207
-Am Schloßberg | 65191
 Am Schlupfloch | 65207
 Am Sonnenblick | 65207
 Am Sonnenhang | 65207
@@ -50,33 +49,14 @@ An den drei Weiden | 65207
 An der Allee | 65207
 An der Dietenmühle | 65191
 An der Gerbermühle | 65207
-An der Hofwiese | 65191
 An der Höhe | 65207
 An der Leimenkaut | 65207
-Bergstraße | 65193
 Buchenwaldstraße | 65193
-Bürschgartenstraße | 65193
-Carl-Frenger-Steige | 65193
-Danziger Straße | 65191
-Dorotheenweg | 65193
 Dudenstraße | 65193
-Eigenheimstraße | 65193
-Elisenstraße | 65193
 Frauenstraße | 65193
-Gartenstraße | 65191
 Goldsteintal | 65207
-Hirtenstraße | 65193
-Irmengardstraße | 65191
-Jungferngartenstraße | 65193
-Louis-Buchelt-Straße | 65193
 Ostpreußenstraße | 65207
-Schlagstraße | 65193
-Soodersteige | 65193
 Starenweg | 65191
-Steckengartenstraße | 65193
 Teufelsgraben | 65193
-Vor den Fichten | 65193
-Weihergartenstraße | 65193
-Wittgenweg | 65193
 Zweigstraße | 65191
 Zum goldenen Stein | 65193
