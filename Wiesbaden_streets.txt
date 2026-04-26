@@ -47,7 +47,6 @@ Am Wellinger | 65207
 Am Wiesenhang | 65207
 An den drei Weiden | 65207
 An der Allee | 65207
-An der Dietenmühle | 65191
 An der Gerbermühle | 65207
 An der Höhe | 65207
 An der Leimenkaut | 65207
@@ -56,7 +55,6 @@ Dudenstraße | 65193
 Frauenstraße | 65193
 Goldsteintal | 65207
 Ostpreußenstraße | 65207
-Starenweg | 65191
 Teufelsgraben | 65193
 Zweigstraße | 65191
 Zum goldenen Stein | 65193
