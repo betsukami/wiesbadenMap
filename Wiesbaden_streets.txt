@@ -1,6 +1,5 @@
 
 Ahornstraße | 65207
-Alban-Köhler-Straße | 65191
 Alsbachblick | 65207
 Alte Brücke | 65207
 Alte Dorfstraße | 65207
@@ -11,13 +10,9 @@ Am alten Weinberg | 65207
 Am Berggarten | 65207
 Am Biengarten | 65191
 Am Buchenhain | 65207
-Am Burgacker | 65207
 Am Dorfplatz | 65207
 Am großen Garten | 65207
-Am Gänsberg | 65207
-Am Heienberg | 65193
 Am Heiligenhaus | 65207
-Am Heiligenstock | 65191
 Am Holderstrauch | 65207
 Am Kirchentor | 65207
 Am Kohlhaag | 65207
@@ -27,7 +22,6 @@ Am Medenbach | 65207
 Am Pfarrgarten | 65207
 Am Rathaus | 65207
 Am Rebenhang | 65207
-Am Ringwall | 65207
 Am Rosengarten | 65207
 Am Rosenhang | 65207
 Am Roten Berg | 65207
@@ -35,9 +29,7 @@ Am Ruhwehr | 65207
 Am Scheuerling | 65207
 Am Schlupfloch | 65207
 Am Sonnenblick | 65207
-Am Sonnenhang | 65207
 Am Sportfeld | 65207
-Am Sportplatz | 65207
 Am Steinwald | 65207
 Am Stickelwald | 65207
 Am Wald | 65207
@@ -51,10 +43,6 @@ An der Gerbermühle | 65207
 An der Höhe | 65207
 An der Leimenkaut | 65207
 Buchenwaldstraße | 65193
-Dudenstraße | 65193
-Frauenstraße | 65193
-Goldsteintal | 65207
-Ostpreußenstraße | 65207
 Teufelsgraben | 65193
 Zweigstraße | 65191
 Zum goldenen Stein | 65193
