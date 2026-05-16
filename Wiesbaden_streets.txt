@@ -1,48 +1,1019 @@
-
+Aarstraße | 65195
+Abraham-Lincoln-Park | 65189
+Abraham-Lincoln-Straße | 65189
+Abtsweinberg | 65201
+Adam-Lux-Straße | 55246
+Adamstal | 65195
+Adlerstraße | 65183
+Admiral-Scheer-Straße | 55252
+Adolf-Lupp-Platz | 65201
+Adolf-Todt-Straße | 65201
+Adolfinenstraße | 65201
+Adolfsallee | 65183
+Adolfsgäßchen | 65201
+Adolfstraße | 65183
 Ahornstraße | 65207
+Akazienstraße | 65203
+Akazienweg | 65191
+Albert-Schweitzer-Allee | 65201
+Albertsberg | 65201
+Albertstraße | 65201
+Albrecht-Dürer-Straße | 65195
+Albrechtstraße | 65183
+Alemannenstraße | 65191
+Alexander-von-Engelberg-Straße | 65201
+Alexandrastraße | 65203
+Alfons-Paquet-Straße | 65183
+Alfred-Delp-Straße | 65201
+Alfred-Schumann-Straße | 65201
+Allgäuer Straße | 65191
+Aloys-Kunz-Weg | 65195
+Alsbach | 65207
 Alsbachblick | 65207
+Alsenstraße | 55252
+Alt Auringen | 65207
+Altdorferstraße | 65195
 Alte Brücke | 65207
 Alte Dorfstraße | 65207
+Alte Kirschgartenstraße | 55246
+Alte Pforte | 65201
+Alte Schmelze | 65201
+Alte Winterstraße | 55246
+Alter Kirschgarten | 55246
 Altkönigstraße | 65207
 Altmühlstraße | 65207
 Altmünsterstraße | 65207
+Am Alten Lindewerk | 55246
 Am alten Weinberg | 65207
 Am Berggarten | 65207
+Am Berggewann | 65201
+Am Berstädter Grabenweg | 55252
 Am Biengarten | 65191
+Am Blauen Garten | 55246
 Am Buchenhain | 65207
 Am Dorfplatz | 65207
+Am Eichelwäldchen | 55252
+Am Erkelsborn | 65189
+Am Fort Biehler | 55252
+Am Gleisdreieck | 55252
 Am großen Garten | 65207
+Am Gräselberg | 65187
+Am Grünen Baum | 65201
+Am Gückelsberg | 55246
+Am Güldenplan | 65201
+Am Haingraben | 65189
+Am Hammerberg | 65201
+Am Hang | 65201
 Am Heiligenhaus | 65207
+Am Helgenpfad | 65201
+Am Hermannsberg | 65201
+Am Hilgersbach | 55252
+Am Hinkelhaus | 65207
+Am Hohen Stein | 65201
 Am Holderstrauch | 65207
+Am Hosenberg | 65201
+Am Jägerhof | 65201
 Am Kirchentor | 65207
+Am Kloster Klarenthal | 65195
 Am Kohlhaag | 65207
+Am Kupferberg | 65203
+Am Königsfloß | 55252
+Am Langelsweinberg | 65189
 Am Leiermann | 65207
+Am Lindenbach | 65201
+Am Lindenbaum | 65201
 Am Lindenborn | 65207
+Am Lindequartier | 55246
+Am Lippbach | 65201
+Am Mainzer Weg | 55246
 Am Medenbach | 65207
+Am Melonenberg | 65203
+Am Mittelberg | 65201
+Am Mühlberg | 65195
+Am Nickelsborn | 55252
+Am Parkfeld | 65201
 Am Pfarrgarten | 65207
+Am Pförtchen | 55252
+Am Pionierübungsplatz | 55252
 Am Rathaus | 65207
 Am Rebenhang | 65207
+Am Rheinbahnhof | 65201
+Am Rinker | 55252
 Am Rosengarten | 65207
 Am Rosenhang | 65207
 Am Roten Berg | 65207
 Am Ruhwehr | 65207
+Am Römertor | 65183
+Am Rübenberg | 55246
+Am Sauerstoffwerk | 55246
 Am Scheuerling | 65207
+Am Schlosspark | 65203
+Am Schloßpark | 65201
 Am Schlupfloch | 65207
+Am Simmler | 65201
 Am Sonnenblick | 65207
+Am Speiergarten | 65191
 Am Sportfeld | 65207
 Am Steinwald | 65207
 Am Stickelwald | 65207
+Am Sägewerk | 55246
 Am Wald | 65207
+Am Warmen Damm | 65189
+Am Wartturm | 65191
 Am Wasserturm | 65207
 Am Weinberg | 65207
 Am Wellinger | 65207
+Am Weyer | 55252
 Am Wiesenhang | 65207
+Am Wolfsfeld | 65191
+Amrumer Straße | 65201
+Amöneburger Straße | 65203
 An den drei Weiden | 65207
+An den Erlen | 65207
+An den Leidenhecken | 65191
+An den Quellen | 65183
 An der Allee | 65207
+An der Alten Synagoge | 65183
+An der Alten Zündholzfabrik | 55246
+An der Aulenkaut | 65199
+An der Auringer Mühle | 65207
+An der Drei-Lilien-Quelle | 65183
+An der Gabelung | 55252
 An der Gerbermühle | 65207
+An der Hammermühle | 65201
+An der Helling | 55252
 An der Höhe | 65207
+An der Kieskaut | 55246
+An der Klaus | 55252
+An der Kupferlache | 65203
 An der Leimenkaut | 65207
-Buchenwaldstraße | 65193
-Teufelsgraben | 65193
-Zweigstraße | 65191
-Zum goldenen Stein | 65193
+An der Taunusbahn | 55246
+An Peters Ziegelei | 65201
+Andreas-Hofer-Straße | 65203
+Andreas-Schlüter-Straße | 65189
+Andreasstraße | 65201
+Angelika-Thiels-Straße | 65203
+Angerweg | 65201
+Anglergasse | 65201
+Anhalterweg | 65191
+Ankertorstraße | 55252
+Anna-Birle-Straße | 55252
+Anna-Seghers-Straße | 55246
+Anne-Frank-Straße | 65199
+Annemarie-Goßmann-Straße | 65207
+Anton-Berges-Straße | 65201
+Anton-Günther-Straße | 65191
+Anton-Hehn-Straße | 55246
+Anton-Jäger-Straße | 65191
+Anton-Viebig-Platz | 55246
+Anton-von-Werner-Weg | 65195
+Anton-Zeeh-Straße | 55252
+Arizonastraße | 65189
+Armenruhstraße | 65201
+Arminiusweg | 65203
+Arnoldsteiner Weg | 65203
+Aschenbrödelweg | 65201
+Asternweg | 65201
+Aubachtal | 65207
+Auf dem Bangert | 65207
+Auf den Erlen | 65207
+Auf der Ahl | 65207
+Auf der Eich | 65201
+August-Bebel-Straße | 65201
+August-Laut-Straße | 65201
+August-Liebig-Weg | 65191
+August-Lutz-Brücke | 55246
+August-Ruf-Straße | 65207
+August-Wolff-Straße | 65201
+Augustastraße | 65189
+Aukamm | 65191
+Aukammallee | 65191
+Aunelstraße | 65201
+Auringer Straße | 65207
+Aßmannshäuser Straße | 65197
+Bachgasse | 65201
+Bachmayerstraße | 65195
+Bachstraße | 65207
+Backfischgasse | 65201
+Bahnhofsplatz | 65189
+Balthasar-Neumann-Straße | 65189
+Bangertstraße | 65207
+Baumstraße | 65203
+Begasweg | 65195
+Belzbachweg | 65201
+Berberichstraße | 55246
+Bergmannstraße | 65201
+Berlichingenstraße | 65201
+Berliner Straße | 65189
+Bernhard-May-Straße | 65201
+Bernhard-Schwarz-Straße | 65201
+Bernsteinstraße | 65207
+Berstädter Grabenweg | 55252
+Berstädter Weg | 55252
+Bert-Brecht-Straße | 65201
+Bertha-von-Suttner-Straße | 65189
+Bethelstraße | 65201
+Beuthener Straße | 65191
+Biebricher Allee | 65203
+Biebricher Straße | 55252
+Biegerstraße | 65191
+Bierstadter Höhe | 65191
+Bierstadter Straße | 65189
+Birgidstraße | 65191
+Birkenstraße | 65203
+Bischofsheimer Straße | 55246
+Bismarckring | 65183
+Bismarcksaue | 65201
+Bleichwiesenstraße | 65201
+Blierweg | 65201
+Blumenthalstraße | 65199
+Blücherplatz | 65195
+Blücherstraße | 65195
+Bodelschwinghstraße | 65191
+Bodenstedtstraße | 65189
+Boelckestraße | 55252
+Bogengasse | 65191
+Borkholder Straße | 65201
+Borkumer Straße | 65201
+Bornbaum | 65207
+Bornhofenweg | 65195
+Bregenzer Straße | 55246
+Breitenbachstraße | 65203
+Bremenstraße | 65191
+Bremthaler Straße | 65207
+Bremthaler Weg | 65207
+Brentanostraße | 65203
+Breslauer Straße | 65201
+Brombeerweg | 65207
+Bruchstraße | 55246
+Bruchstück | 55246
+Brunhildenstraße | 65189
+Brunnengasse | 65201
+Brunnenkolonnade | 65189
+Brunnenstraße | 65191
+Brüder-Grimm-Straße | 65201
+Brühlstraße | 65191
+Buchenstraße | 65203
+Buchenweg | 65207
+Bundesstraße 455 | 65191
+Bunsenstraße | 65201
+Burglindenstraße | 65201
+Burgstraße | 65183
+Burgunderstraße | 65189
+Böcklinweg | 65195
+Böttcherweg | 55252
+Bülowstraße | 65195
+Büttelwiese (Distrikt) | 65201
+Californiastraße | 65189
+Calvinstraße | 65201
+Camozzistraße | 55246
+Carl-Bosch-Straße | 65203
+Carl-Schuricht-Straße | 65203
+Carl-von-Ibell-Weg | 65195
+Carl-von-Ossietzky-Straße | 65199
+Carlo-Schmid-Straße | 65203
+Carlowitzstraße | 55252
+Castellumstraße | 55252
+Chaisenweg | 65189
+Cheruskerweg | 65203
+Christdorfer Straße | 65207
+Christian-Bücher-Straße | 65201
+Christian-Morgenstern-Straße | 65201
+Christian-Zais-Straße | 65189
+Christof-Ruthof-Weg | 55252
+Colmarer Straße | 65201
+Coloradostraße | 65189
+Comeniusstraße | 65195
+Dachsbergstraße | 65201
+Dachsteinstraße | 65201
+Dahlemweg | 65201
+Dankwardweg | 65189
+Danneckerstraße | 65195
+Darmstädter Landstraße | 55246
+De-Laspée-Straße | 65183
+Defreggerstraße | 65195
+Delkenheimer Straße | 65191
+Deponiestraße | 65203
+Dern’sches Gelände | 65183
+Dicke Allee | 65203
+Didierstraße | 65201
+Die Hub | 65207
+Dieter-Löber-Straße | 65203
+Dietrich-Bonhoeffer-Straße | 65191
+Dillstraße | 65195
+Diltheystraße | 65201
+Dohlenweg | 65201
+Dolomitenstraße | 65201
+Donnersbergstraße | 65203
+Dorfanger | 65191
+Dornfelderweg | 55246
+Dornröschenweg | 65201
+Dorrlochstraße | 65191
+Dostojewskistraße | 65203
+Dotzheimer Straße | 65183
+Dr.-Fritz-Gontermann-Straße | 65207
+Drei-Lilien-Platz | 65183
+Dreiherrenstein | 65207
+Dreiweidenstraße | 65195
+Dresdener Ring | 65191
+Drosselweg | 65201
+Drudenstraße | 65195
+Drususstraße | 65203
+Dunantstraße | 65201
+Dyckerhoffstraße | 65201
+Dörrgasse | 65201
+Dürerplatz | 65195
+Eberbacher Straße | 65199
+Eberleinstraße | 65195
+Eberstraße | 65203
+Eckbornstraße | 65207
+Eckernfördestraße | 65195
+Edisonstraße | 65201
+Ehrengartstraße | 65201
+Eibachstraße | 65201
+Eibenstraße | 65203
+Eibinger Straße | 65199
+Eichenstraße | 55246
+Eichenweg | 65207
+Eigerstraße | 65201
+Eisenacher Straße | 65191
+Eisenbahnstraße | 55252
+Eisenmännchenstraße | 65201
+Eiserne Hand | 65195
+Elbestraße | 65201
+Elisabethenstraße | 65201
+Elise-Kirchner-Straße | 65203
+Ellenbogengasse | 65183
+Elmendorffstraße | 65203
+Elsa-Brändström-Straße | 65203
+Elsässer Platz | 65195
+Elsässer Straße | 65199
+Eltviller Straße | 65199
+Emil-Dietz-Straße | 65201
+Emser Straße | 65195
+Entenstraße | 65199
+Erasmusstraße | 65201
+Erathstraße | 65189
+Erbacher Straße | 65199
+Erbsenacker | 65207
+Erftstraße | 65201
+Erich-Ollenhauer-Straße | 65203
+Erlenweg | 65203
+Erlkönigweg | 65201
+Ernastraße | 65201
+Ernst-Barlach-Straße | 65195
+Ernst-Galonske-Straße | 55252
+Etzelstraße | 65189
+Eulenstraße | 65201
+Eupener Straße | 65203
+Faaker Straße | 65203
+Falkenstraße | 65201
+Fasaneriestraße | 65195
+Fasanerieweg | 65195
+Faulbrunnenstraße | 65183
+Feldbergblick | 65207
+Feldbergstraße | 65203
+Feldkirchner Weg | 65203
+Feldstraße | 65183
+Felsenstraße | 65201
+Ferdinand-Knettenbrech-Weg | 65203
+Feuerbachstraße | 65195
+Fichtenweg | 65191
+Finkenweg | 65201
+Finnenbahn Rheinblick | 65199
+Fischergasse | 65201
+Fischerstraße | 65203
+Fischzuchtweg | 65195
+Flachstraße | 65201
+Flemingstraße | 65203
+Flensburger Straße | 55252
+Fliederweg | 65201
+Fliednerstraße | 65191
+Floridastraße | 65189
+Floßhafenstraße | 55246
+Flörsheimer Straße | 55246
+Flößergasse | 65201
+Flößerweg | 55252
+Fondetter Straße | 65207
+Forsthaus Adamstal | 65195
+Frank-Wedekind-Straße | 65201
+Frankfurter Straße | 65189
+Frau-Holle-Weg | 65201
+Frauensteiner Straße | 65201
+Freudenbergstraße | 65201
+Friedenstraße | 65189
+Friedhofsweg | 65207
+Friedrich-Bergius-Straße | 65203
+Friedrich-Engels-Weg | 65201
+Friedrich-Naumann-Straße | 65195
+Friedrichstraße | 65183
+Fritz-Hußler-Straße | 55252
+Fritz-Lenges-Straße | 55252
+Fritz-Philippi-Straße | 65195
+Fritz-Ullmann-Straße | 55252
+Froschkönigweg | 65201
+Frühlingsstraße | 55252
+Färcherweg | 55252
+Föhrer Straße | 65199
+Gaabstraße | 65195
+Gabelsbergerstraße | 65195
+Gartenfeldstraße | 65189
+Gartenweg | 55246
+Gemeindebadgäßchen | 65183
+General-Mudra-Straße | 55252
+Georg-August-Straße | 65195
+Georg-Beatzel-Straße | 55252
+Georg-Krücke-Straße | 65195
+Georg-Rieser-Straße | 65207
+Georg-Schollmayer-Weg | 55246
+Georgenborner Straße | 65201
+Georgstraße | 65201
+Gerberaweg | 65199
+Gerberstraße | 65207
+Gerhardt-Katsch-Straße | 65191
+Gerichtsstraße | 65183
+Gerlach-Weg | 65199
+Gertrud-Bäumer-Straße | 65189
+Geschwister-Stock-Platz | 65183
+Ginsterweg | 65207
+Glacisweg | 55246
+Gladiolenweg | 65199
+Glarusstraße | 65203
+Gleiwitzer Straße | 65191
+Glockengasse | 65199
+Gneisenaustraße | 65195
+Goebenstraße | 65195
+Goethestraße | 65203
+Goldackerweg | 65191
+Goldammerweg | 65207
+Goldgasse | 65183
+Goldparmänenweg | 65191
+Gottfried-Dörr-Straße | 55252
+Grabenstraße | 65183
+Gravensteinerstraße | 65191
+Grazer Straße | 55246
+Greifstraße | 65199
+Gretelweg | 65199
+Grohanlage | 55252
+Grorother Straße | 65201
+Große Kirchenstraße | 55252
+Großglocknerstraße | 65199
+Grünewaldstraße | 65195
+Guldenweg | 65207
+Gustav-Adolf-Straße | 65195
+Gustav-Freytag-Straße | 65189
+Gustav-Nachtigal-Straße | 65189
+Gustav-Stresemann-Ring | 65189
+Gustavsburger Straße | 55246
+Gänseblümchenweg | 65199
+Gänssaalweg | 55246
+Habsburgerstraße | 65189
+Hafenstraße | 65201
+Hafenweg | 65201
+Hainbuchenweg | 65207
+Hamburgstraße | 65191
+Hambuschweg | 55252
+Hans-Bredow-Straße | 65189
+Hans-Böckler-Straße | 65199
+Hans-Römer-Platz | 65201
+Hans-Thoma-Straße | 65195
+Hardtstraße | 65201
+Hartig-Hain | 65201
+Hartingstraße | 65195
+Haselstraße | 65191
+Hasengartenstraße | 65189
+Hasenspitz | 65199
+Hauberrisserstraße | 65189
+Hauptstraße | 55246
+Haus Hubertus | 65195
+Haus Quisisana | 65207
+Heinrich-Heine-Straße | 65201
+Heinrich-Pette-Straße | 65191
+Heinrich-Zille-Straße | 65201
+Helen-Keller-Straße | 65199
+Helene-von-Bila-Promenade | 55246
+Helenenstraße | 65183
+Helgoländer Straße | 65199
+Hellenbergweg | 65207
+Helmholtzstraße | 65199
+Hermann-Gitter-Straße | 65195
+Hermann-Hesse-Straße | 65207
+Hermann-Jansen-Straße | 65189
+Hermann-Löns-Straße | 65201
+Hermannstraße | 65183
+Herrenstraße | 55246
+Herrnbergstraße | 65201
+Herrnmühlgasse | 65183
+Hertzstraße | 65199
+Hessenstraße | 65191
+Heßlerweg | 55246
+Himbeerweg | 65207
+Hinter dem Gotthelf | 55246
+Hintere Kirschgartenstraße | 55246
+Hintere Steinchenstraße | 55246
+Hirtengasse | 65207
+Hochheimer Straße | 55246
+Hochstraße | 65195
+Hochstättenstraße | 65183
+Hof Erlenblick | 65207
+Hof Niederfeld | 65191
+Hofmannstraße | 65191
+Hofstraße | 65191
+Hofäckerstraße | 65207
+Hohe Straße | 65199
+Hohenstaufenstraße | 65189
+Hohlstraße | 65199
+Holbeinstraße | 65195
+Hollergasse | 65199
+Hollermorgenstraße | 65199
+Holländische Straße | 65199
+Holunderweg | 65207
+Holzhackerhäuschen | 65195
+Holzstraße | 65199
+Holzweg | 55246
+Honiggasse | 65191
+Hopfgartenstraße | 65203
+Hugo-Wolf-Straße | 55246
+Humboldtstraße | 65189
+Hupfeldweg | 65195
+Huttenstraße | 65199
+Häfnergasse | 65183
+Häherweg | 65199
+Hänselweg | 65199
+Höchster Straße | 65203
+Höhenweg | 65207
+Höllbergstraße | 65201
+Hügelstraße | 65191
+Hüttenstraße | 65201
+Illstraße | 65201
+Im Alten Schwaben | 65199
+Im Fort Montebello | 55252
+Im Gebück | 65207
+Im Hopfengarten | 65207
+Im Kreuzer | 65199
+Im Lindegewann | 65191
+Im Loh | 65199
+Im Peedsche | 55246
+Im Sachsengraben | 55246
+Im Sampel | 55246
+Im Sand | 55252
+Im See | 55246
+Im Seiffen | 65207
+Im Sinzengründchen | 65199
+Im Weingarten | 65201
+Im Wiesengrund | 65199
+Im Zwetschenfeld | 55246
+Imkerweg | 65191
+In den Langen Ruten | 65207
+In der Hohl | 65207
+In der Witz | 55252
+Ingrid-Marie-Weg | 65191
+Innsbrucker Straße | 55246
+Irenenstraße | 65189
+Jahnstraße | 65183
+Jakob-Kaiser-Straße | 65199
+Jakob-Schick-Straße | 55252
+Jasminstraße | 65207
+Jawlenskystraße | 65183
+Joachim-Ringelnatz-Straße | 65201
+Johannes-Goßner-Straße | 55252
+Johannesstraße | 55246
+Johannisgässchen | 65201
+John-F.-Kennedy-Straße | 65189
+Josef-Siegfried-Gasse | 65199
+Josef-von-Lauff-Straße | 65189
+Josefinenanlage | 55252
+Josefstraße | 65199
+Joseph-Baum-Haus | 65199
+Juister Straße | 65199
+Jupiterstraße | 65191
+Kaiser-Friedrich-Platz | 65183
+Kaiser-Friedrich-Ring | 65183
+Kanzelstraße | 65191
+Kappesgarten | 65191
+Karl-Arnold-Straße | 65199
+Karl-Boos-Straße | 65195
+Karl-Glässing-Straße | 65183
+Karl-Helfferich-Platz | 55252
+Karl-Josef-Schlitt-Straße | 65195
+Karl-Legien-Straße | 65199
+Karl-Lehr-Straße | 65201
+Karl-Marx-Straße | 65199
+Karl-Pracht-Straße | 65201
+Karl-Sulzbach-Straße | 65191
+Karrnweg | 65199
+Kaspar-Kögler-Platz | 65183
+Kastanienweg | 65207
+Kasteler Straße | 65203
+Kastellstraße | 65183
+Katzensteingässchen | 65201
+Kegelbahnweg | 65195
+Keilsbaum | 55252
+Kellershohl | 65207
+Kellerskopfstraße | 65207
+Kellerskopfweg | 65207
+Kellerstraße | 65183
+Kesselbachstraße | 65195
+Kettenbornstraße | 65201
+Kettingsacker | 65199
+Kiedricher Straße | 55246
+Kiefernstraße | 55246
+Kilianstraße | 55246
+Kirchbachstraße | 65189
+Kirchbornstraße | 65191
+Kirchenhügel | 65207
+Kirchgasse | 65183
+Kirchhohl | 65207
+Kirchplatz | 55246
+Kirschblütenstraße | 65201
+Kirschenpfad | 65195
+Klabundstraße | 65201
+Klagenfurter Straße | 55246
+Kleiberweg | 65207
+Kleinaustraße | 65201
+Kleine Berberichstraße | 55246
+Kleine Burgstraße | 55246
+Kleine Frankfurter Straße | 65189
+Kleine Kirchenstraße | 55252
+Kleine Langgasse | 65183
+Kleine Schwalbacher Straße | 65183
+Kleine Taunusstraße | 55246
+Kleine Wilhelmstraße | 65189
+Klingerstraße | 65195
+Kloberstraße | 55252
+Kloppenheimer Straße | 65191
+Kloppenheimer Weg | 65191
+Klosterbruch | 65195
+Klosterpfad | 65199
+Klosterweg | 65195
+Knausstraße | 65195
+Kochbrunnenplatz | 65183
+Kohlheckstraße | 65199
+Kolberger Straße | 65191
+Kolpingstraße | 65191
+Kommerzienrat-Disch-Brücke | 55246
+Konrad-Arndt-Straße | 65195
+Konrad-Schollmayer-Straße | 55246
+Konradinerallee | 65189
+Kormoranweg | 65201
+Kostheimer Landstraße | 55246
+Kranichstraße | 65199
+Krauseneckstraße | 55246
+Krauskopfstraße | 65201
+Krautgartenweg | 55252
+Krembergstraße | 65201
+Kronenstraße | 55252
+Kronprinzenstraße | 65183
+Krusestraße | 65195
+Krähenweg | 65199
+Kuhtränkweg | 55252
+Kurhausplatz | 65189
+Kurt-Hebach-Straße | 55252
+Kurt-Schumacher-Ring | 65195
+Kurt-Tucholsky-Straße | 65201
+Käferbergweg | 55246
+Kärntner Straße | 65203
+Käthe-Kollwitz-Straße | 65191
+König-Drosselbart-Weg | 65199
+Küferstraße | 65201
+Lahnstraße | 65195
+Landgrabenstraße | 65199
+Langenbeckplatz | 65189
+Langendellschlag | 65199
+Langeooger Straße | 65199
+Langfeldstraße | 65191
+Langgasse | 65183
+Lassalleplatz | 65199
+Laurentiusstraße | 65207
+Lehrstraße | 65183
+Leierweg | 65201
+Leipziger Straße | 65191
+Lenbachstraße | 65195
+Lerchenweg | 65207
+Lesselallee | 55246
+Liebwiesweg | 65201
+Lilienstraße | 65207
+Lindenweg | 65191
+Linzer Straße | 55246
+Lippestraße | 65201
+Loh | 65199
+Lorenz-Schott-Straße | 55252
+Lothringer Straße | 65195
+Ludwig-Erhard-Straße | 65191
+Ludwig-Wolker-Straße | 55252
+Ludwigsplatz | 55252
+Ludwigsrampe | 55252
+Ludwigstraße | 65195
+Luise-Ott-Straße | 55246
+Luisenplatz | 65183
+Luxemburgplatz | 65183
+Luxemburgstraße | 65183
+Ländchenweg | 65191
+Läusbachbrücke | 65207
+Läusbachweg | 65207
+Löwengasse | 65199
+Maaraue | 55246
+Maaraustraße | 55246
+Mainpfortstraße | 55246
+Mainstraße | 65203
+Mainufer | 55246
+Margarethenstraße | 55246
+Marie-Juchacz-Straße | 55252
+Marktplatz | 65183
+Marschaller Weg | 65199
+Mathildenstraße | 65189
+Matterhornstraße | 65199
+Matthias-Claudius-Straße | 65183
+Mauergasse | 65183
+Mauritiusplatz | 65183
+Mauritiusstraße | 65183
+Menzelstraße | 65195
+Milanstraße | 65201
+Mississippistraße | 65189
+Mittelweg | 65207
+Mittlere Kirschgartenstraße | 55246
+Mittlere Steinchenstraße | 55246
+Mittlerer Sampelweg | 55246
+Moltkering | 65189
+Moritz-Hilf-Platz | 65199
+Moritzeck | 65201
+Moritzstraße | 65183
+Moriz-Marxheimer-Straße | 65195
+Mosburgstraße | 65203
+Moselstraße | 65201
+Murnaustraße | 65189
+Möwenstraße | 65201
+Müfflingstraße | 55252
+Mühlborngasse | 65199
+Mühlgasse | 65183
+Mühlstraße | 65191
+Mühlweg | 55246
+Müllerstraße | 65183
+Mümmelmannweg | 65201
+Münchhofstraße | 55246
+Nachtigallenweg | 65207
+Nasengasse | 55246
+Nassauer Straße | 65203
+Nauroder Straße | 65207
+Neckarstraße | 65201
+Nelkenstraße | 65207
+Nettelbeckstraße | 65195
+Neues Schützenhaus | 65195
+Neustraße | 55252
+New-York-Straße | 65189
+Niedernhausener Straße | 65207
+Nikolausstraße | 55246
+Nonnentrift | 65195
+Norderneyer Straße | 65199
+Nordstrander Straße | 65199
+Obere Kirschgartenstraße | 55246
+Oberer Sampelweg | 55246
+Oberer Wingertsweg | 65199
+Oberer Zwerchweg | 55252
+Obergasse | 65207
+Oberstraße | 55252
+Ochsenbrunnenweg | 55252
+Odenwaldblick | 65207
+Oderstraße | 65201
+Ogelweg | 55252
+Ohmstraße | 65199
+Oranienstraße | 65183
+Ostring | 55252
+Otto-Reutter-Straße | 65201
+Otto-Suhr-Ring | 55252
+Pagenstecherstraße | 65183
+Panoramastraße | 65199
+Pappelweg | 65207
+Paradiesgäßchen | 65201
+Parsifalstraße | 65203
+Passauer Straße | 55246
+Patrickstraße | 65191
+Paul-Gerhardt-Straße | 65199
+Paulinenstraße | 65189
+Paulusplatz | 55252
+Pestalozzistraße | 55252
+Peter-Sander-Straße | 55252
+Petersaueweg | 55252
+Petersweg | 55252
+Pfandlochweg | 55246
+Pfarrer-Fendel-Straße | 55246
+Pfarrer-Wermelskirchen-Weg | 65199
+Pfarrgewann | 65201
+Pferdswiesenweg | 55252
+Pfortenstraße | 55252
+Pfälzer Straße | 55252
+Philipp-Holl-Straße | 65195
+Philippsbergstraße | 65195
+Philippsring | 55246
+Pirolweg | 65199
+Platter Straße | 65183
+Platzwiesstraße | 65207
+Poststraße | 65191
+Prinzengässchen | 65183
+Quellbornstraße | 65201
+Querfeldstraße | 65195
+Raiffeisenplatz | 65189
+Raiffeisenstraße | 65191
+Rampenstraße | 55252
+Rathaus-Passage | 65183
+Rathausstraße | 65203
+Rathenau-Platz | 55252
+Rathenauplatz | 65203
+Ratsherrenweg | 55252
+Raunheimer Straße | 55246
+Rebhuhnweg | 65199
+Reichsapfelstraße | 65201
+Reiherstraße | 65201
+Reisstraße | 65199
+Reiterhof Auringen | 65207
+Rembrandtstraße | 65195
+Reuchlinstraße | 65199
+Rheinallee | 55252
+Rheinblickstraße | 65203
+Rheingauer Pfad | 65201
+Rheingaustraße | 65201
+Rheinstraße | 65189
+Rheintalstraße | 65199
+Rheinufer | 55252
+Riederbergstraße | 65195
+Rietschelstraße | 65195
+Rilkestraße | 65207
+Ringofenstraße | 65201
+Rinkerweg | 55252
+Robert-Schäfer-Weg | 65201
+Rochusplatz | 55252
+Roonstraße | 65195
+Rosengasse | 55246
+Rothstraße | 65195
+Rotkäppchenweg | 65199
+Rubensstraße | 65195
+Rudolf-Dietz-Straße | 65207
+Rudolf-Vogt-Straße | 65203
+Ruhwehrweg | 65207
+Rumpelstilzchenweg | 65199
+Röderstraße | 65183
+Römerberg | 65183
+Römerfeld | 55246
+Römergasse | 65199
+Römerstraße | 55252
+Römertor | 65183
+Rüdigerstraße | 65189
+Rüsselsheimer Straße | 55246
+Rüthstraße | 65189
+Saarbrücker Allee | 65201
+Saarstraße | 65201
+Salierstraße | 65189
+Salzbachstraße | 65189
+Salzburger Straße | 55246
+Schaperstraße | 65195
+Schau-ins-Land | 65189
+Schellenbergpassage | 65183
+Schiefersteinweg | 65199
+Schiersteiner Straße | 55246
+Schiffergasse | 65201
+Schillerstraße | 65207
+Schillingstraße | 65195
+Schinkelstraße | 65189
+Schlangenpfad | 65201
+Schlehenweg | 65207
+Schleiergewannweg | 55246
+Schloßgasse | 65207
+Schloßplatz | 65183
+Schläferskopf | 65199
+Schneebergstraße | 65201
+Schongauerstraße | 65195
+Schoßbergstraße | 65201
+Schubertstraße | 65189
+Schulberg | 65183
+Schulgasse | 65183
+Schulstraße | 55246
+Schultheißstraße | 65191
+Schwalbacher Straße (Dotzheim‑Abschnitt) | 65197
+Schwalbenweg | 55252
+Schwarzenbergstraße | 65189
+Schwarzwaldstraße | 65201
+Schäferweg | 65207
+Schönaustraße | 65201
+Schönbergstraße | 65199
+Schützenhausweg | 65195
+Schützenhofstraße | 65183
+Schützenstraße | 65195
+Sedanplatz | 65183
+Sedanstraße | 65183
+Seestraße | 55252
+Siebenmorgenweg | 55246
+Siegfriedring | 65189
+Sieglindeweg | 65189
+Siegmundweg | 65189
+Solmsstraße | 65189
+Sonnenblumenweg | 65199
+Sonnenhöhe | 65207
+Sonnenstraße | 65191
+Sophienstraße | 65189
+Spiegelgasse | 65183
+Spitzwegstraße | 65195
+St.-Veiter-Platz | 55246
+Stanleystraße | 65189
+Steckersloch | 65195
+Stegerwaldstraße | 65199
+Steigweg | 55246
+Steinberger Straße | 65203
+Steinern Straße | 55252
+Steinern-Kreuz-Weg | 55246
+Steingasse | 65183
+Stettiner Straße | 65203
+Steubenhof | 65207
+Stielstraße | 65201
+Stiftstraße | 65183
+Stollenweg | 65195
+Stolze-Schrey-Straße | 65195
+Stormstraße | 65207
+Straße der Republik | 65203
+Söhnleinstraße | 65201
+Tannenring | 65207
+Tannhäuserstraße | 65199
+Taubenweg | 65207
+Taunusblick | 65199
+Taunusstraße | 65183
+Teplitzstraße | 65203
+Teufelssprung | 55246
+Texasstraße | 65189
+Theaterkolonnade | 65189
+Thelemannstraße | 65189
+Thorwaldsenanlage | 65195
+Tilsiter Straße | 55246
+Trommlerweg | 65195
+Tulpenstraße | 65207
+Turmstraße | 55252
+Ulmenstraße | 55246
+Unter den Eichen | 65195
+Unter den Gärten | 55246
+Unterer Sampelweg | 55246
+Untergasse | 65201
+Uthmannstraße | 55246
+Van-Dyck-Straße | 65195
+Veilchenweg | 65199
+Venatorstraße | 65191
+Viktoriastraße | 65189
+Virginiastraße | 65189
+Vogelsang | 65199
+Von-Bergmann-Straße | 65191
+Von-Leyden-Straße | 65191
+Vordere Kirschgartenstraße | 55246
+Vordere Steinchenstraße | 55246
+Wacholderweg | 55252
+Wagemannstraße | 65183
+Waldhofstraße | 55246
+Waldstraße | 55252
+Walkmühlstraße | 65195
+Walkmühltalanlagen | 65195
+Wallufer Straße | 55246
+Walramstraße | 65183
+Washingtonstraße | 65189
+Wasserrolle | 65201
+Waterloostraße | 65195
+Webergasse | 65183
+Weidenbornstraße | 65189
+Weihergasse | 65203
+Weilstraße | 65183
+Weimarer Straße | 65191
+Weinbergstraße | 55252
+Welfenstraße | 65189
+Wellritzstraße | 65183
+Welschstraße | 65189
+Wenzel-Jaksch-Straße | 65199
+Werderstraße | 65195
+Westendstraße | 65195
+Westerwaldstraße | 65195
+Wettinerstraße | 65189
+Wickerbachbrücke | 65207
+Wiener Platz | 55246
+Wiesbadener Straße | 65199
+Wiesengrund | 55252
+Wilfried-Ries-Straße | 65195
+Wilhelm-Kalle-Straße | 65203
+Wilhelm-Kopp-Straße | 65203
+Wilhelm-Leuschner-Straße | 55252
+Wilhelm-Schliffer-Straße | 65207
+Wilhelmstraße | 65183
+Wingertstraße | 65199
+Winterstraße | 55246
+Wittelsbacherstraße | 65189
+Wittenberger Straße | 65191
+Wolfsfeldweg | 65199
+Wupperstraße | 55252
+Wuth’sche Brauerei (Zufahrt) | 65203
+Yorckstraße | 65195
+Zeilstraße | 65201
+Zelterstraße | 55246
+Zietenring | 65195
+Zum Goethestein | 65201
+Zum Grauen Stein | 65201
+Zum Mainbogen | 55252
+Zum Nürnberger Hof | 65201
+Zum Petersberg | 55252
+Zur Weißerd | 55246
+Zweibörnstraße | 65189
+Zähringerstraße | 65189
+Äppelallee | 65203
+Überm Wald | 65207
